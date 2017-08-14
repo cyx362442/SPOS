@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="textcolor">
+        <item>#1FB5AC</item>
+        <item>#FF6900</item>
+        <item>#467CD4</item>
+    </string-array>
+    <array name="colorbg">
+        <item>@color/colorGreen</item>
+        <item>@color/colorOrange</item>
+        <item>@color/colorBlue</item>
+    </array>
+    <array name="loginbg">
+        <item>@drawable/selector_square_green</item>
+        <item>@drawable/selector_square_orange</item>
+        <item>@drawable/selector_square_blue</item>
+    </array>
+    <array name="img_up">
+        <item>@drawable/ic_arrow_drop_up_green_36dp</item>
+        <item>@drawable/ic_arrow_drop_up_orange_36dp</item>
+        <item>@drawable/ic_arrow_drop_up_blue_36dp</item>
+    </array>
+    <!--<array name="img_add">-->
+        <!--<item>@drawable/ic_add_circle_green_36dp</item>-->
+        <!--<item>@drawable/ic_add_circle_orange_36dp</item>-->
+        <!--<item>@drawable/ic_add_circle_blue_36dp</item>-->
+    <!--</array>-->
+    <!--<array name="img_sub">-->
+        <!--<item>@drawable/ic_remove_circle_outline_green_36dp</item>-->
+        <!--<item>@drawable/ic_remove_circle_outline_orange_36dp</item>-->
+        <!--<item>@drawable/ic_remove_circle_outline_blue_36dp</item>-->
+    <!--</array>-->
+</resources>
